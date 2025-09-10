@@ -4,7 +4,7 @@
 
 ## Technical Skills 
 #### Languages & Development Tools
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://user-images.githubusercontent.com/81547780/151382642-730da5c5-5f6b-42da-b900-23a85253863a.svg"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://user-images.githubusercontent.com/81547780/151382642-730da5c5-5f6b-42da-b900-23a85253863a.svg"> 
 
 
 #### Platform
