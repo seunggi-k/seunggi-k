@@ -25,7 +25,10 @@
 
 ### 🛠️ DevOps / Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunggi-k&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![seunggi-k's github stats](https://github-readme-stats.vercel.app/api?username=seunggi-k&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunggi-k&layout=compact)](https://github.com/seunggi-k)
 </div>
