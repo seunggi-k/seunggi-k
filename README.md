@@ -4,6 +4,16 @@
 <h3>반갑습니다! 김승기입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 </h3>
 
+<p>
+  백엔드(Spring Boot) 기반으로 AI 기능을 서비스로 연결하고, 성능/안정성을 구조적으로 개선하는 개발자입니다.
+</p>
+
+<p>
+  ✅ Backend 중심 설계/구현 (Spring Boot) <br/>
+  ✅ AI 기능 서비스화 (FastAPI · PyTorch · OpenCV) <br/>
+  ✅ 성능/안정성 개선 (Redis · Search · 데이터 최적화)
+</p>
+
 📚 Tech Stack 📚
 
 ### ✅ Backend
