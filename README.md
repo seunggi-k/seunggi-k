@@ -9,9 +9,9 @@
 </p>
 
 <p>
-  ✅ Backend 중심 설계/구현 (Spring Boot) <br/>
-  ✅ AI 기능 서비스화 (FastAPI · PyTorch · OpenCV) <br/>
-  ✅ 성능/안정성 개선 (Redis · Search · 데이터 최적화)
+  - Backend 중심 설계/구현 (Spring Boot) <br/>
+  - AI 기능 서비스화 (FastAPI · PyTorch · OpenCV) <br/>
+  - 성능/안정성 개선 (Redis · Search · 데이터 최적화)
 </p>
 
 📚 Tech Stack 📚
